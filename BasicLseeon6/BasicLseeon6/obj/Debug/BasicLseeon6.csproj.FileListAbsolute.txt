@@ -1,0 +1,7 @@
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\bin\Debug\BasicLseeon6.exe.config
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\bin\Debug\BasicLseeon6.exe
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\bin\Debug\BasicLseeon6.pdb
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\obj\Debug\BasicLseeon6.csprojAssemblyReference.cache
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\obj\Debug\BasicLseeon6.csproj.CoreCompileInputs.cache
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\obj\Debug\BasicLseeon6.exe
+F:\杂七杂八\AFA\CSProject\BasicLseeon6\BasicLseeon6\obj\Debug\BasicLseeon6.pdb

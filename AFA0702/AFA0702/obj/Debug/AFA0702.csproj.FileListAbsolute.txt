@@ -1,0 +1,7 @@
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\bin\Debug\AFA0702.exe.config
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\bin\Debug\AFA0702.exe
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\bin\Debug\AFA0702.pdb
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\obj\Debug\AFA0702.csprojAssemblyReference.cache
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\obj\Debug\AFA0702.csproj.CoreCompileInputs.cache
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\obj\Debug\AFA0702.exe
+F:\杂七杂八\阿发你好\CSProject\AFA0702\AFA0702\obj\Debug\AFA0702.pdb

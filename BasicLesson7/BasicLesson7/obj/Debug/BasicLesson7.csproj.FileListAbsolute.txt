@@ -1,0 +1,7 @@
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\bin\Debug\BasicLesson7.exe.config
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\bin\Debug\BasicLesson7.exe
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\bin\Debug\BasicLesson7.pdb
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\obj\Debug\BasicLesson7.csprojAssemblyReference.cache
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\obj\Debug\BasicLesson7.csproj.CoreCompileInputs.cache
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\obj\Debug\BasicLesson7.exe
+F:\杂七杂八\AFA\CSProject\BasicLesson7\BasicLesson7\obj\Debug\BasicLesson7.pdb

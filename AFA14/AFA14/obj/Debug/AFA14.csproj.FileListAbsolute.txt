@@ -1,0 +1,5 @@
+F:\杂七杂八\阿发你好\CSProject\AFA14\AFA14\bin\Debug\AFA14.dll
+F:\杂七杂八\阿发你好\CSProject\AFA14\AFA14\bin\Debug\AFA14.pdb
+F:\杂七杂八\阿发你好\CSProject\AFA14\AFA14\obj\Debug\AFA14.csproj.CoreCompileInputs.cache
+F:\杂七杂八\阿发你好\CSProject\AFA14\AFA14\obj\Debug\AFA14.dll
+F:\杂七杂八\阿发你好\CSProject\AFA14\AFA14\obj\Debug\AFA14.pdb

@@ -1,0 +1,7 @@
+F:\杂七杂八\AFA\CSProject\Hello\Hello\bin\Debug\Hello.exe.config
+F:\杂七杂八\AFA\CSProject\Hello\Hello\bin\Debug\Hello.exe
+F:\杂七杂八\AFA\CSProject\Hello\Hello\bin\Debug\Hello.pdb
+F:\杂七杂八\AFA\CSProject\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+F:\杂七杂八\AFA\CSProject\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+F:\杂七杂八\AFA\CSProject\Hello\Hello\obj\Debug\Hello.exe
+F:\杂七杂八\AFA\CSProject\Hello\Hello\obj\Debug\Hello.pdb

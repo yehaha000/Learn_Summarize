@@ -1,0 +1,10 @@
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\bin\Debug\AFA1402.exe.config
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\bin\Debug\AFA1402.exe
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\bin\Debug\AFA1402.pdb
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\bin\Debug\AFA14.dll
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\bin\Debug\AFA14.pdb
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\obj\Debug\AFA1402.csprojAssemblyReference.cache
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\obj\Debug\AFA1402.csproj.CoreCompileInputs.cache
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\obj\Debug\AFA1402.csproj.CopyComplete
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\obj\Debug\AFA1402.exe
+F:\杂七杂八\阿发你好\CSProject\AFA1402\AFA1402\obj\Debug\AFA1402.pdb

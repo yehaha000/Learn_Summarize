@@ -1,0 +1,8 @@
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\bin\Debug\AFA1802.exe.config
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\bin\Debug\AFA1802.exe
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\bin\Debug\AFA1802.pdb
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\bin\Debug\Newtonsoft.Json.dll
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\obj\Debug\AFA1802.csproj.CoreCompileInputs.cache
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\obj\Debug\AFA1802.csproj.CopyComplete
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\obj\Debug\AFA1802.exe
+F:\杂七杂八\阿发你好\CSProject\AFA1802\AFA1802\obj\Debug\AFA1802.pdb
